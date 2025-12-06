@@ -29,4 +29,13 @@
     <img src="https://hermes.dio.me/assets/diome/logo.svg" height="45"/>
     <div style="font-size: 14px; margin-top: 4px;">DIO</div>
   </div>
+  
+
+  <!-- Bradesco NOVO LOGO -->
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Banco_Bradesco_logo_%28vertical%29.png" height="45"/>
+    <div style="font-size: 14px; margin-top: 4px;">Bradesco</div>
+  </div>
+
+  
 
