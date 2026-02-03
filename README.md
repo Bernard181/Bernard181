@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/Java-00599C?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
+          
 </div>
 
 ---
